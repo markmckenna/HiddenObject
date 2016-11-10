@@ -1,17 +1,8 @@
-*.class
+build
+.gradle
 
-.mtj.tmp/
-hs_err_pid*
+local.properties
+.DS_Store
 
-*.jar
-*.war
-*.ear
-
-.idea/*
-!.idea/inspectionProfiles/
-!.idea/codeStyleSettings.xml
-!.idea/dictionaries/
-*.iml
-
-target/
-out/
+.idea
+!.idea/inspectionProfiles/Project_Default.xml
